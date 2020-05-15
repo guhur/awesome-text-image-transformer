@@ -1,5 +1,8 @@
 # Awesome BERT and computer vision
 Curated list of methods using images along with a BERT model.
+
+Each of the deep neural network aims at learning a joint representation of images along with texts. They are pretrained over large datasets on several tasks, such that image or word masking. Then they are finetuned on evaluation tasks, and achieve SOTA performances.
+
 This list is ordered by submission month to arXiv. Feel free to PR new papers.
 All images are on courtesy of the paper corresponding to their paragraph.
 
